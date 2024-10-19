@@ -30,7 +30,7 @@
 </head>
 <body>
     <h2>Formulario de Contacto</h2>
-    <form action="https://formspree.io/f/TU_EMAIL_AQUI" method="POST">
+    <form action="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
         <input type="text" name="nombre" placeholder="Tu nombre" required>
         <input type="email" name="email" placeholder="Tu email" required>
         <textarea name="mensaje" placeholder="Tu mensaje" required></textarea>
